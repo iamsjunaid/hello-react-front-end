@@ -57,7 +57,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Back-end link <a name="live-demo"></a>
+## 🚀 Back-end link
 
 - [Backend link](https://github.com/iamsjunaid/hello-rails-back-end)
 
